@@ -1,0 +1,14 @@
+input{
+    margin-bottom:10 ;
+}
+
+#output{
+    border-radius: 20px;
+    background-color: gold;
+    float: none;
+    padding: 10px;
+    text-align: left;
+}
+body{
+    background-color: hotpink;
+}
